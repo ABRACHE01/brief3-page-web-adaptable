@@ -55,7 +55,7 @@ main ol {
     width: 250px;
     padding: 20px;
     border: 5px solid gray;
-    margin: 30px;
+    margin: 5px;
     float: left;
     text-align: center;
     
@@ -83,7 +83,7 @@ ul li{
 
    
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
   
      
  ul,header {  
